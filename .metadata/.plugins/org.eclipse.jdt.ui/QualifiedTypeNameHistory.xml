@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.yash.restapp.service.BlogService"/>
+<fullyQualifiedTypeName name="com.yash.restapp.serviceimpl.BlogServiceImpl"/>
+<fullyQualifiedTypeName name="javax.ws.rs.GET"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Produces"/>
+<fullyQualifiedTypeName name="javax.ws.rs.core.MediaType"/>
+<fullyQualifiedTypeName name="com.yash.restapp.domain.Blog"/>
+<fullyQualifiedTypeName name="javax.ws.rs.PathParam"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.rowmapper.UserRowMapper"/>
+<fullyQualifiedTypeName name="javax.ws.rs.Path"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.service.UserService"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.serviceimpl.UserServiceImpl"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.dao.UserDAO"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.daoimpl.UserDAOImpl"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.domain.User"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.util.DateUtil"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.rowmapper.BlogRowMapper"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.rowmapper.AllUserRowMapper"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.dao.CategoryDAO"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.domain.Category"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.rowmapper.CategoryRowMapper"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.util.SimpleJDBCUtil"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.service.BlogService"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.dao.BlogDAO"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.daoimpl.BlogDAOImpl"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.serviceimpl.BlogServiceImpl"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.domain.Blog"/>
+<fullyQualifiedTypeName name="javax.xml.bind.annotation.XmlRootElement"/>
+<fullyQualifiedTypeName name="com.yash.blog_v3.util.JNDIConnectionPooling"/>
+<fullyQualifiedTypeName name="jdk.nashorn.internal.parser.JSONParser"/>
+<fullyQualifiedTypeName name="java.net.URLConnection"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONArray"/>
+<fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xerces.internal.impl.xpath.regex.ParseException"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+</qualifiedTypeNameHistroy>
